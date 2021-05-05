@@ -1,0 +1,7 @@
+echo "# pm-grant-com.maxmpz.audioplayer-android.permission.SET_VOLUME_KEY_LONG_PRESS_LISTENER" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Skyl2007/pm-grant-com.maxmpz.audioplayer-android.permission.SET_VOLUME_KEY_LONG_PRESS_LISTENER.git
+git push -u origin main
